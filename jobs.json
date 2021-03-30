@@ -1,0 +1,47 @@
+{
+  "jobs": [
+    {
+      "name": "Software Developer Engeneer",
+      "graduationLow": 2012,
+      "graduationHigh": 2020,
+      "experienceLow": 2,
+      "experienceHigh": 6,
+      "averageLow": 8,
+      "salary": 10000,
+      "company": "Google",
+      "positions": 1,
+      "department": "IT"
+    },
+    {
+      "name": "Software Developer Engeneer Intern",
+      "experienceLow": 0,
+      "experienceHigh": 2,
+      "averageLow": 9,
+      "salary": 5000,
+      "company": "Google",
+      "positions": 1,
+      "department": "IT"
+    },
+    {
+      "name": "Software Developer Engeneer",
+      "graduationLow": 2014,
+      "graduationHigh": 2020,
+      "experienceLow": 1,
+      "averageLow": 8,
+      "salary": 12000,
+      "company": "Amazon",
+      "positions": 1,
+      "department": "IT"
+    },
+    {
+      "name": "Software Developer Engeneer Intern",
+      "experienceLow": 0,
+      "experienceHigh": 2,
+      "averageLow": 8,
+      "salary": 6000,
+      "company": "Amazon",
+      "positions": 1,
+      "department": "IT"
+    }
+  ]
+}
